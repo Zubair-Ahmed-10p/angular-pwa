@@ -5,9 +5,9 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build --prod",
-    "startServer": "npx http-server ./dist -p 4200",
-    "predeploy": "ng build --prod --base-href=/",
-    "deploy": "npx gh-pages -d dist",
+    "startServer": "npx http-server ./dist/angular-pwa-prac -p 4200",
+    "predeploy": "ng build --prod --base-href=/angular-pwa-prac",
+    "deploy": "npx gh-pages -d ./dist/angular-pwa-prac",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
