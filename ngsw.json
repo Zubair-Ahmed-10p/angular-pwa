@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1605184619064,
-  "index": "/angular-pwa-prac/index.html",
+  "timestamp": 1605185617208,
+  "index": "/dist/angular-pwa-prac/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/angular-pwa-prac/favicon.ico",
-        "/angular-pwa-prac/index.html",
-        "/angular-pwa-prac/main.81c3ace3604a17106030.js",
-        "/angular-pwa-prac/manifest.webmanifest",
-        "/angular-pwa-prac/polyfills.35a5ca1855eb057f016a.js",
-        "/angular-pwa-prac/runtime.acf0dec4155e77772545.js",
-        "/angular-pwa-prac/styles.09e2c710755c8867a460.css"
+        "/dist/angular-pwa-prac/favicon.ico",
+        "/dist/angular-pwa-prac/index.html",
+        "/dist/angular-pwa-prac/main.81c3ace3604a17106030.js",
+        "/dist/angular-pwa-prac/manifest.webmanifest",
+        "/dist/angular-pwa-prac/polyfills.35a5ca1855eb057f016a.js",
+        "/dist/angular-pwa-prac/runtime.acf0dec4155e77772545.js",
+        "/dist/angular-pwa-prac/styles.09e2c710755c8867a460.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "/angular-pwa-prac/assets/icons/icon-128x128.png",
-        "/angular-pwa-prac/assets/icons/icon-144x144.png",
-        "/angular-pwa-prac/assets/icons/icon-152x152.png",
-        "/angular-pwa-prac/assets/icons/icon-192x192.png",
-        "/angular-pwa-prac/assets/icons/icon-384x384.png",
-        "/angular-pwa-prac/assets/icons/icon-512x512.png",
-        "/angular-pwa-prac/assets/icons/icon-72x72.png",
-        "/angular-pwa-prac/assets/icons/icon-96x96.png"
+        "/dist/angular-pwa-prac/assets/icons/icon-128x128.png",
+        "/dist/angular-pwa-prac/assets/icons/icon-144x144.png",
+        "/dist/angular-pwa-prac/assets/icons/icon-152x152.png",
+        "/dist/angular-pwa-prac/assets/icons/icon-192x192.png",
+        "/dist/angular-pwa-prac/assets/icons/icon-384x384.png",
+        "/dist/angular-pwa-prac/assets/icons/icon-512x512.png",
+        "/dist/angular-pwa-prac/assets/icons/icon-72x72.png",
+        "/dist/angular-pwa-prac/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/angular-pwa-prac/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/angular-pwa-prac/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/angular-pwa-prac/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/angular-pwa-prac/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/angular-pwa-prac/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/angular-pwa-prac/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/angular-pwa-prac/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/angular-pwa-prac/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/angular-pwa-prac/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/angular-pwa-prac/index.html": "30a8c2fd376a86bafc8b4b87bdec998e19fd3e3b",
-    "/angular-pwa-prac/main.81c3ace3604a17106030.js": "47851ac79a378bcbb5f5fd9e420fb8098fd885c8",
-    "/angular-pwa-prac/manifest.webmanifest": "643505a6a372b02874e66d5e0b6be87ab8e1e003",
-    "/angular-pwa-prac/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
-    "/angular-pwa-prac/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/angular-pwa-prac/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/dist/angular-pwa-prac/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/dist/angular-pwa-prac/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/dist/angular-pwa-prac/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/dist/angular-pwa-prac/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/dist/angular-pwa-prac/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/dist/angular-pwa-prac/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/dist/angular-pwa-prac/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/dist/angular-pwa-prac/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/dist/angular-pwa-prac/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/dist/angular-pwa-prac/index.html": "f073d68b85d9fe85751e881ddad0d650da7e4e1f",
+    "/dist/angular-pwa-prac/main.81c3ace3604a17106030.js": "47851ac79a378bcbb5f5fd9e420fb8098fd885c8",
+    "/dist/angular-pwa-prac/manifest.webmanifest": "643505a6a372b02874e66d5e0b6be87ab8e1e003",
+    "/dist/angular-pwa-prac/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
+    "/dist/angular-pwa-prac/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/dist/angular-pwa-prac/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
